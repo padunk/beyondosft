@@ -2,7 +2,6 @@ import { SAVE_SEARCH } from "../actions/action-type";
 
 const initialState = {
   searchKeywords: [],
-  historyData: [],
 };
 
 export function reducer(state = initialState, action) {
