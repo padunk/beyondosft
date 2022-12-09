@@ -24,9 +24,10 @@ yarn dev
 
 then open `localhost: 5173`
 
-Starting in preview:
+Starting in preview mode:
 
 ```bash
+yarn build
 yarn preview
 ```
 
